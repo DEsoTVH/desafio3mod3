@@ -1,0 +1,11 @@
+.container{
+    display: inline-flex;
+    align-content: center;
+    gap: 20px;
+    justify-content: center;
+    padding: 40px;
+}
+
+div{
+    border: 1px solid black;
+}
